@@ -195,7 +195,7 @@ local function runSelected(url)
     if not okHttp or type(source) ~= "string" or #source < 10 then
         busy = false
         hideLoading()
-        title.Text = "KSS VD"
+        title.Text = "ZERO"
         sub.Text = "โหลดไม่สำเร็จ — ตรวจสอบ Console"
         warn("KSS VD Script Selector: HttpGet Error: " .. tostring(source))
         for _, child in ipairs(frame:GetChildren()) do
@@ -213,7 +213,7 @@ local function runSelected(url)
     if not fn then
         busy = false
         hideLoading()
-        title.Text = "KSS VD"
+        title.Text = "ZERO"
         sub.Text = "Compile Error — ตรวจสอบ Console"
         warn("KSS VD Script Selector: Compile Error: " .. tostring(compileErr))
         for _, child in ipairs(frame:GetChildren()) do
@@ -256,7 +256,7 @@ makeButton("Script 1  •  KSS VD", 80, function()
     runSelected(SCRIPT_1)
 end)
 
-makeButton("Script 2  •  KSS VD BETA", 135, function()
+makeButton("Script 2  •  Zero HUB", 135, function()
     runSelected(SCRIPT_2)
 end)
 -- Entrance animation
