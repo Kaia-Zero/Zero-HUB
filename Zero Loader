@@ -256,7 +256,7 @@ makeButton("Script 1  •  KSS VD 🟢", 80, function()
     runSelected(SCRIPT_1)
 end)
 
-makeButton("Script 2  •  Zero HUB 🟡", 135, function()
+makeButton("Script 2  •  Zero HUB 🟢", 135, function()
     runSelected(SCRIPT_2)
 end)
 -- Entrance animation
