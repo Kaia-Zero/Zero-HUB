@@ -4,7 +4,7 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 local TweenService = game:GetService("TweenService")
 
 local SCRIPT_1 = "https://pastefy.app/SZpsIhwn/raw"
-local SCRIPT_2 = "https://pastefy.app/RTMfHVOv/raw?part=addon.lua"
+local SCRIPT_2 = "https://raw.githubusercontent.com/Kaia-Zero/ZERO_HUB/refs/heads/main/Zero%20HUB"
 
 local gui = Instance.new("ScreenGui")
 gui.Name = "KSS_VD_ScriptSelector"
