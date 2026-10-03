@@ -252,7 +252,7 @@ local function runSelected(url)
     end)
 end
 
-makeButton("Script 1  •  KSS VD 🟢", 80, function()
+makeButton("Script 1  •  KSS VD 🔴", 80, function()
     runSelected(SCRIPT_1)
 end)
 
