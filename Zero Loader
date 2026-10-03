@@ -3,7 +3,7 @@ local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 local TweenService = game:GetService("TweenService")
 
-local SCRIPT_1 = "https://raw.githubusercontent.com/Kaia-Zero/ZERO_HUB/refs/heads/main/Zero%20HUB%20(%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2)"
+local SCRIPT_1 = "https://pastefy.app/RTMfHVOv/raw?part=addon.lua"
 local SCRIPT_2 = "https://raw.githubusercontent.com/Kaia-Zero/ZERO_HUB/refs/heads/main/Zero%20HUB"
 
 local gui = Instance.new("ScreenGui")
