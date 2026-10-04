@@ -1,6 +1,6 @@
 local scripts = {
     [93978595733734] = "https://raw.githubusercontent.com/Kaia-Zero/ZERO_HUB/refs/heads/main/Zero%20HUB",
-    [138103330716004] = "https://raw.githubusercontent.com/Kaia-Zero/ZERO_HUB/refs/heads/main/3AM",
+    [138103330716004] = "https://voidedx.vercel.app/api/raw?id=vx_1vb58f4j",
 }
 
 local placeId = game.PlaceId
